@@ -5,10 +5,11 @@ Split into two sub-challenges - PyBank and PyPoll
 # File Directory:
 
 Both PyBank and PyPoll have the following folders/files:
+```
     main.py - the main python script
     Resources folder - contains original CSV file
     Analysis folder - contains final summary analysis as text file
-
+```
 # PyBank
 
 Simulation of a financial dataset of profits/losses
